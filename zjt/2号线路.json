@@ -2,10 +2,10 @@
   "spider": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
   "wallpaper": "https://yydsys.top/bg.php",
   "logo": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/aeb322b982b5a10b/风车new.gif",
-  "warningText": "关注公众号好剧窝",
+  "warningText": "关注公众号追剧团",
   "lives": [
     {
-      "name": "公众号好剧窝",
+      "name": "公众号追剧团",
       "type": 0,
       "url": "",
       "playerType": 2,
@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "防失联，请关注【微信公众号】好剧窝，点击首页可以切换站点",
+      "name": "防失联，请关注【微信公众号】追剧团，点击首页可以切换站点",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
