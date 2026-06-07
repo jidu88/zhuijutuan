@@ -177,7 +177,7 @@
     },
     {
       "key": "push_agent",
-      "name": "关注公众号：好剧窝",
+      "name": "关注公众号：追剧团",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -283,7 +283,7 @@
   ],
   "lives": [
     {
-      "name": "好剧窝直播",
+      "name": "追剧团直播",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/zbzy.txt",
       "playerType": 2
